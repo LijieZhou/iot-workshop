@@ -9,4 +9,6 @@ lead is called *anode* and needs to be connected to the positive voltage while t
 (called *cathode*) needs to be connected towards ground. If the LED is connected in reverse the LED
 will not light up.
 
+Tutorial: https://www.youtube.com/watch?v=GcfJXjz86n0&index=4&t=4s&list=PL2prrfB4uRarl12GHSbsoMmeYYlk2PLb7
+
 <img src="doc/LEDResistor_bb.png" width="50%"/>
